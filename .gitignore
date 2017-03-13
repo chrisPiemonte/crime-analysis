@@ -1,2 +1,4 @@
 .DS_Store
 dataset/.DS_Store
+dataset/Data/
+.ipynb_checkpoints
