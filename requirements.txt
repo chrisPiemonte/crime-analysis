@@ -1,6 +1,8 @@
 pysal
+pyshp
 numpy
 scipy
 shapely==1.6b2
 fiona
 pandas
+matplotlib
