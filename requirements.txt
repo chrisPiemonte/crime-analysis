@@ -7,3 +7,5 @@ fiona
 pandas
 matplotlib
 scikit-learn
+apyori
+pymining
