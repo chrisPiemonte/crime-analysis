@@ -1,4 +1,5 @@
-## Association Rule Mining from Spatial Data for Crime Analysis
+# Association Rule Mining from Spatial Data for Crime Analysis
+
 
 I suggest to setup a virtual environment using [miniconda](http://conda.pydata.org/miniconda.html)
 
@@ -12,4 +13,4 @@ I suggest to setup a virtual environment using [miniconda](http://conda.pydata.o
 <pre>jupyter-notebook ./notebooks</pre>
 
 
-![Mappazza](https://github.com/chrisPiemonte/crime-analysis/resources/alcohol_crime_map.png "Mappazza")
+![Mappazza](https://github.com/chrisPiemonte/crime-analysis/blob/master/resources/alcohol_crime_map.png?raw=true "Mappazza")
