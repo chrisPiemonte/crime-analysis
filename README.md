@@ -1,4 +1,4 @@
-# Association Rule Mining from Spatial Data for Crime Analysis
+# Association Rule Mining from <br /> Spatial Data for Crime Analysis
 
 
 I suggest to setup a virtual environment using [miniconda](http://conda.pydata.org/miniconda.html)
