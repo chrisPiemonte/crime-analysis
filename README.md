@@ -14,4 +14,6 @@ I suggest to setup a virtual environment using [miniconda](http://conda.pydata.o
 
 <br /> 
 
-![Mappazza](https://github.com/chrisPiemonte/crime-analysis/blob/master/resources/alcohol_crime_map.png?raw=true "Mappazza")
+<p align="center">
+<img src="https://github.com/chrisPiemonte/crime-analysis/blob/master/resources/alcohol_crime_map.png?raw=true" width="600">
+</p>
